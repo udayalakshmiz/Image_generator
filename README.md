@@ -82,7 +82,9 @@ python app.py
 **Project Structure**
 
 │── diffusion_image_generator.ipynb
+
 │── README.md
+
 │── requirements.txt
 
 **Future Improvements**
